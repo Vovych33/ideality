@@ -4,6 +4,7 @@
     "products": [
       {
         "id": 1,
+        "imageUrl": "Пепперони.jpg"
         "name": "Пепперони",
         "description": "Острая пицца с колбасками",
         "price": 5
