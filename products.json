@@ -426,7 +426,78 @@
   },
   {
     "name": "Напитки",
-    "products": []
+    "products": [
+      {
+        "name": "Сок Моя Семья Вишня–Мята",
+        "description": "0,95 л",
+        "price": 150
+      },
+      {
+        "name": "Добрый Морс",
+        "description": "0,3 л",
+        "price": 80
+      },
+      {
+        "name": "Rich Биттер лемон",
+        "description": "",
+        "price": 80
+      },
+      {
+        "name": "Rich в ассортименте",
+        "description": "1 л",
+        "price": 200
+      },
+      {
+        "name": "Чай в ассортименте Rich",
+        "description": "1 л",
+        "price": 150
+      },
+      {
+        "name": "Вода Газированная",
+        "description": "1 л",
+        "price": 100
+      },
+      {
+        "name": "Вода Газированная",
+        "description": "0,5 л",
+        "price": 50
+      },
+      {
+        "name": "Вода Негазированная",
+        "description": "0,5 л",
+        "price": 50
+      },
+      {
+        "name": "Добрый в ассортименте",
+        "description": "0,2 л",
+        "price": 50
+      },
+      {
+        "name": "Добрый лимонад  в ассортименте",
+        "description": "1 л",
+        "price": 150
+      },
+      {
+        "name": "Бёрн в ассортименте",
+        "description": "",
+        "price": 150
+      },
+      {
+        "name": "Добрый Кола",
+        "description": "1 л",
+        "price": 150
+      },
+      {
+        "name": "Добрый Кола без сахара",
+        "description": "1 л",
+        "price": 150
+      },
+      {
+        "name": "Добрый Кола без сахара",
+        "description": "0,5 л",
+        "price": 100
+      }
+    ]
   },
   {
     "name": "Десерты",
