@@ -428,13 +428,13 @@
     "name": "Напитки",
     "products": [
       {
-        "name": "Сок Моя Семья Вишня–Мята",
-        "description": "0,95 л",
+        "name": "Сок Моя Семья Вишня–Мята 0,95 л",
+        "description": "",
         "price": 150
       },
       {
-        "name": "Добрый Морс",
-        "description": "0,3 л",
+        "name": "Добрый Морс 0,3 л",
+        "description": "",
         "price": 80
       },
       {
@@ -443,38 +443,38 @@
         "price": 80
       },
       {
-        "name": "Rich в ассортименте",
-        "description": "1 л",
+        "name": "Rich в ассортименте 1 л",
+        "description": "",
         "price": 200
       },
       {
-        "name": "Чай в ассортименте Rich",
-        "description": "1 л",
+        "name": "Чай в ассортименте Rich 1 л",
+        "description": "",
         "price": 150
       },
       {
-        "name": "Вода Газированная",
-        "description": "1 л",
+        "name": "Вода Газированная 1 л",
+        "description": "",
         "price": 100
       },
       {
-        "name": "Вода Газированная",
-        "description": "0,5 л",
+        "name": "Вода Газированная 0,5 л",
+        "description": "",
         "price": 50
       },
       {
-        "name": "Вода Негазированная",
-        "description": "0,5 л",
+        "name": "Вода Негазированная 0,5 л",
+        "description": "",
         "price": 50
       },
       {
-        "name": "Добрый в ассортименте",
-        "description": "0,2 л",
+        "name": "Добрый в ассортименте 0,2 л",
+        "description": "",
         "price": 50
       },
       {
-        "name": "Добрый лимонад  в ассортименте",
-        "description": "1 л",
+        "name": "Добрый лимонад  в ассортименте 1 л",
+        "description": "",
         "price": 150
       },
       {
@@ -483,18 +483,18 @@
         "price": 150
       },
       {
-        "name": "Добрый Кола",
-        "description": "1 л",
+        "name": "Добрый Кола 1 л",
+        "description": "",
         "price": 150
       },
       {
-        "name": "Добрый Кола без сахара",
-        "description": "1 л",
+        "name": "Добрый Кола без сахара 1л",
+        "description": "",
         "price": 150
       },
       {
-        "name": "Добрый Кола без сахара",
-        "description": "0,5 л",
+        "name": "Добрый Кола без сахара 0,5 л",
+        "description": "",
         "price": 100
       }
     ]
